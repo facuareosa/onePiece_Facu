@@ -1,0 +1,53 @@
+.main__pj{
+    display: grid;
+    width: 80%;
+    grid-template-columns: 25% 25% 50%;
+    grid-template-rows: 20em auto;
+    justify-items: center;
+    align-items: center;
+    margin: 0 auto;
+    gap: 3em;
+}
+    
+.pj__wanted{
+    grid-area:2/1/5/3;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+}
+.pj__poster{
+    width:50%;
+}
+.pj__text{
+    grid-area: 1/3/5/4;
+    display: grid;
+    grid-template-rows: 20em auto;
+    align-self: normal;
+}
+.pj__jolly{
+    grid-area:1/1/2/3;
+    justify-self: baseline;
+}
+.pj__jolly-brook{
+    height: 10em;
+}
+.pj__text-title{
+    grid-area:1/1/2/2;
+    font-size: 4em;
+    text-align: center;
+    align-self: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-family: onePiece_font;
+    font-size: 8rem;
+}
+.pj__text-description{
+    grid-area:2/1/3/2;
+    font-size: 1.5em;
+}   
+.pj__img{
+    grid-area: 5/1/6/4;
+}
+.pj__img-png{
+    
+}
