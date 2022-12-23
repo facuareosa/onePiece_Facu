@@ -12,7 +12,7 @@
     background-image: url(../assets/img/personajes/franky/wallpaper/franky_wallpaper.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: left;
 }
 .main__pj-luffy{
     background-image: url(../assets/img/personajes/luffy/wallpaper/luffy_wallpaper.jpg);
@@ -23,25 +23,25 @@
     background-image: url(../assets/img/personajes/nami/wallpaper/nami_wallpaper.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: left;
 }
 .main__pj-robin{
     background-image: url(../assets/img/personajes/robin/wallpaper/robin_wallpaper.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: left;
 }
 .main__pj-sanji{
     background-image: url(../assets/img/personajes/sanji/wallpaper/sanji_wallpaper.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: left;
 }
 .main__pj-usopp{
     background-image: url(../assets/img/personajes/usopp/wallpaper/usopp_wallpaper.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position:right;
 }
 .main__pj-zoro{
     background-image: url(../assets/img/personajes/zoro/wallpaper/zoro_wallpaper.jpg);
@@ -99,7 +99,4 @@
 }   
 .pj__img{
     grid-area: 5/1/6/4;
-}
-.pj__img-png{
-    
 }
