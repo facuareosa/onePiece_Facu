@@ -1,0 +1,30 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    border-top: .5em groove rgb(255, 145, 0);
+    padding: 2em
+}
+
+.footer__div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer__p{
+    font-size: 1em;
+    color: grey;
+}
+.footer__ul{
+    display: flex;
+}
+.footer__li{
+    margin: 0 .2em
+}
+.footer__a{
+
+}
+.footer__img{
+
+}
