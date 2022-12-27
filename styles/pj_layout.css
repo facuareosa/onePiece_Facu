@@ -112,3 +112,36 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+@media (max-width: 480px){
+    .section__pj{
+        display: flex;
+        flex-direction: column;
+        width: 90%;
+    }
+    .pj__wanted{
+        display: flex;
+        justify-content: center;
+        margin: 1em auto;
+        flex-direction: row;
+        flex-wrap: wrap;
+        order: 99;
+    }
+    .pj__text{
+        display: flex;
+        flex-direction: column;
+    }
+    .pj__poster{
+        margin: 0 .5em
+    }
+    .pj__jolly{
+        order: -1;
+    }
+    .pj__img{
+        display: block;
+        width: 100%;
+    }
+    .pj__img-png{
+        width: 100%;
+    }
+}
