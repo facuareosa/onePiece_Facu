@@ -19,3 +19,22 @@
     text-align: center;
     text-shadow: 1px 1px 3px white;
 }
+
+@media (max-width: 480px){
+    .main__home{
+        height: auto;
+    }
+
+    .home__div{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 5em 0.5em;
+    }
+    .home__img{
+        width: 100%;
+    }
+    .home__h2{
+        line-height: 1.5em
+    }
+}
