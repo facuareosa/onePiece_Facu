@@ -113,7 +113,9 @@
     background-repeat: no-repeat;
 }
 
-@media (max-width: 480px){
+/*---Responsive pj layout---*/
+
+@media (max-width: 768px){
     .section__pj{
         display: flex;
         flex-direction: column;
@@ -143,5 +145,12 @@
     }
     .pj__img-png{
         width: 100%;
+    }
+}
+    
+@media (max-width: 480px){
+    
+    .description__content{
+        font-size: 1.5em;
     }
 }
