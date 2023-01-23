@@ -1,6 +1,8 @@
-<a href="https://facuareosa.github.io/onePiece_Facu/">
-  <img width=100% src="https://raw.githubusercontent.com/facuareosa/onePiece_Facu/main/assets/img/one_piece_logo.png " alt="one_piece_logo">
-</a>
+<p align="center">
+  <a href="https://facuareosa.github.io/onePiece_Facu/">
+    <img width=50% src="https://raw.githubusercontent.com/facuareosa/onePiece_Facu/main/assets/img/one_piece_logo.png " alt="one_piece_logo">
+  </a>
+</p>
 <h1 align="center">One Piece Guia personajes</h1>
 <div align="center">
 
@@ -20,5 +22,12 @@
 ![one piece screenshot](https://raw.githubusercontent.com/facuareosa/onePiece_Facu/main/assets/img/One-piece-page-screenshot.jpg)
 <br>
 
+<h2 align="center">Descripción</h2>
 <p>Fan page creada a modo de practica priorizando la ubicacion de diversos elementos y el uso de metodologia BEM sobre el contenido informativo, evitando asi tambien dar demasiado spoiler a personas que no esten avanzadas en el anime.</p>
 <p>Fan page created as a practice, prioritizing the location of various elements and the use of the BEM methodology on informative content, thus also avoiding giving too much spoiler to people who are not advanced in anime.</p>
+
+<h2 align="center">Redes Sociales</h2>
+<p align="center">
+<a href="https://linkedin.com/in/facuareosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facuareosa" height="30" width="40" /></a>
+<a href="https://instagram.com/facu.areosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="facu.areosa" height="30" width="40" /></a>
+</p>
